@@ -5,6 +5,8 @@ public class gameCanvasScript : MonoBehaviour {
     [SerializeField]
     playerDataClass playerDataclass;
     [SerializeField]
+    Text soulsDisplayText;
+    [SerializeField]
     Image npcTypePart;
     [SerializeField]
     List<Sprite> npcTypePartArray;
